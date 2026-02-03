@@ -63,4 +63,4 @@ jobs:
         with:
           app-name: 'ml-smart-agro'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9CCA7A30673645DAB9DC935E8DC8D9F7 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F1B95F7F451A40E2A6350B4B1D424338 }}
