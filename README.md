@@ -59,7 +59,7 @@ The system integrates **Deep Learning, Machine Learning, and Generative AI** to 
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/SmartAgroCare-AI.git
+git clone https://github.com/cyash21/SmartAgroCare-AI.git
 cd SmartAgroCare-AI
 
 ```
